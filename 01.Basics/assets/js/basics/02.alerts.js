@@ -1,4 +1,5 @@
 alert('hello')
+
 const boolean = confirm('Are you sure?')
 console.log(boolean);
 
