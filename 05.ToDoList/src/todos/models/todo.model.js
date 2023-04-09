@@ -3,7 +3,6 @@ import { v4 as uuid } from 'uuid'
 
 export class Todo {
 
-
 /**
  * 
  * @param {String} description 
